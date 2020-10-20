@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 📫 Reach me via: think.niko ＠ gmail
+- 🌱 I’m currently learning Django
+- 🤔 I’m looking for help with building a new web application for a personal project.
+- 💬 Ask me about MongoDB, DocumentDB, Python 3
+- 🔭 I’m currently working on Python code accessing an processing data from MongoDB/DocDB and RESTful APIs.
+
 <!--
 **deathanchor/deathanchor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
